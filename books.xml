@@ -1,20 +1,65 @@
-<bookstore>  
-  <book category="COOKING">  
-    <title lang="en">Everyday Italian</title>  
-    <author>Giada De Laurentiis</author>  
-    <year>2005</year>  
-    <price>30.00</price>  
-  </book>  
-  <book category="CHILDREN">  
-    <title lang="en">Harry Potter</title>  
-    <author>J K. Rowling</author>  
-    <year>2005</year>  
-    <price>29.99</price>  
-  </book>  
-  <book category="WEB">  
-    <title lang="en">Learning XML</title>  
-    <author>Erik T. Ray</author>  
-    <year>2003</year>  
-    <price>39.95</price>  
-  </book>  
-</bookstore>  
+<?xml version="1.0"?>
+<userdata>
+<?xml version="1.0"?>
+<userdata>
+<user1>
+<rollno>143</rollno>
+<name>Soundarya R</name>
+<phno>9989891510</phno>
+<address>Chennai</address>
+</user1>
+<user2>
+<rollno>421</rollno>
+<name>Tharani K</name>
+<phno>9701443556</phno>
+<address>chennai</address>
+</user2>
+<user3>
+<rollno>525</rollno>
+<name> giri</name>
+<phno>9897895301</phno>
+<address>trichy</address>
+</user3>
+<user4>
+<rollno>532</rollno>
+<name>Devil</name>
+<phno>7598319939</phno>
+<address>Chennai</address>
+</user4>
+<user5>
+<rollno>513</rollno>
+<name> manoj</name>
+<phno>9989233331</phno>
+<address>madurai</address>
+</user5>
+<user6>
+<rollno>514</rollno>
+<name> balaji</name>
+<phno>9999789560</phno>
+<address>trichy</address>
+</user6>
+<user7>
+<rollno>567</rollno>
+<name>kiran </name>
+<phno>9999178957</phno>
+<address>thanjavur</address>
+</user7>
+<user8>
+<rollno>518</rollno>
+<name> sekhar</name>
+<phno>789580</phno>
+<address>neyveli</address>
+</user8>
+<user9>
+<rollno>517</rollno>
+<name>chaitu</name>
+<phno>789590</phno>
+<address>coimbatore</address>
+</user9>
+<user10>
+<rollno>595</rollno>
+<name> sravan</name>
+<phno>9000789500</phno>
+<address>cuddalore</address>
+</user10>
+</userdata>
